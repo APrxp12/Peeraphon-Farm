@@ -1,0 +1,15 @@
+{
+  "name": "Farm Calculator",
+  "short_name": "FarmApp",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f0f7f0",
+  "theme_color": "#4caf50",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2329/2329094.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
