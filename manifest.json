@@ -1,6 +1,6 @@
 {
   "name": "Farm Calculator",
-  "short_name": "FarmApp",
+  "short_name": "พีรพล ฟาร์ม",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#f0f7f0",
